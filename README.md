@@ -1,5 +1,5 @@
 # 💫 About Me:
-i am currently student <br>i want to web devloper <br>i want to show my web dev journey <br>
+i am Currently Student <br>i want to web devloper <br>i want to show my web dev journey <br>
 
 
 ## 🌐 Socials:
