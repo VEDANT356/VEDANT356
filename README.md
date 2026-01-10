@@ -1,5 +1,5 @@
 # 💫 About Me:
-i am currently student <br>i want to web devloper <br>i want to show my web dev journey <br>
+Hi 👋 <br>I’m a student learning Web Development and building projects to improve my skills. <br>I’m a student learning Web Development and building projects to improve my skills.<br>🌱 Currently learning HTML, CSS, JavaScript.<br>🎯 Goal: Become a skilled Web Developer.<br>
 
 
 ## 🌐 Socials:
