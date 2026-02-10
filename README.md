@@ -1,5 +1,13 @@
-# 💫 About Me:
-Hi 👋 <br>I’m a student learning Web Development and building projects to improve my skills. <br>I’m a student learning Web Development and building projects to improve my skills.<br>🌱 Currently learning HTML, CSS, JavaScript.<br>🎯 Goal: Become a skilled Web Developer.<br>
+## 👋 About Me
+
+Hi, I'm Vedant.
+
+I'm a Computer Science student focused on learning Web Development  
+by building real-world projects and improving my coding skills.
+
+🌱 Currently learning: HTML, CSS, JavaScript  
+🎯 Goal: Become a skilled Frontend Web Developer and build useful projects  
+🚀 Interested in: Clean UI, responsive design, and practical development
 
 
 ## 🌐 Socials:
