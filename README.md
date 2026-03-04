@@ -1,10 +1,10 @@
 
 ## 👋 About Me
 
-Hi, I'm Vedant.
+Hi, I'm Vedant Kotkar 👨‍💻
 
 I'm a Computer Science student focused on learning Web Development  
-by building real-world projects and improving my coding skills.
+by building real-world projects and improving my coding skills
 
 🌱 Currently learning: HTML, CSS, JavaScript, REACT js   
 🎯 Goal: Become a skilled Frontend Web Developer and build useful projects  
