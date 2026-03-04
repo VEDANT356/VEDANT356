@@ -4,12 +4,41 @@ Hi, I'm Vedant Kotkar 👨‍💻
 
 I'm a passionate Computer Science student focused on mastering Frontend Web Development by building real-world projects and continuously improving my problem-solving skills.
 
-🌱 Currently learning: HTML, CSS, JavaScript, React.js
-💻 Building projects to strengthen: DOM manipulation, APIs, Responsive UI, and Clean Code practices
-🎯 Goal: Become a skilled Frontend Developer and contribute to impactful web applications
-🚀 Interested in: Clean UI, responsive design, performance optimization & practical development
-📚 Always learning and improving one project at a time
+🌱 Currently Learning
 
+HTML
+
+CSS
+
+JavaScript
+
+React.js
+
+💻 Building Projects To Improve
+
+DOM Manipulation
+
+API Integration
+
+Responsive UI
+
+Clean Code Practices
+
+🎯 Goal
+
+Become a skilled Frontend Developer
+
+Contribute to impactful web applications
+
+🚀 Interests
+
+Clean UI
+
+Responsive Design
+
+Performance Optimization
+
+Practical Development
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/st.v3dant)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vedant-kotkar-48976236b/)
