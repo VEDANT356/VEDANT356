@@ -1,7 +1,7 @@
 
 ## 👋 About Me
 
-Hi, I'm Vedant Kotkar 👨‍💻
+<h6>Hi, I'm Vedant Kotkar 👨‍💻</h6>
 
 I'm a Computer Science student focused on learning Web Development  
 by building real-world projects and improving my coding skills
