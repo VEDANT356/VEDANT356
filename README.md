@@ -47,21 +47,26 @@ I enjoy creating clean, responsive and user-friendly websites while continuously
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VEDANT356&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VEDANT356&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://img.shields.io/github/followers/VEDANT356?style=for-the-badge&logo=github&label=Followers" />
+  <img src="https://img.shields.io/github/stars/VEDANT356?style=for-the-badge&logo=github&label=Total%20Stars" />
+  <img src="https://img.shields.io/github/repos/VEDANT356?style=for-the-badge&logo=github&label=Repositories" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=VEDANT356&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://img.shields.io/github/commit-activity/y/VEDANT356?style=for-the-badge&logo=github&label=Commits%20This%20Year" />
+  <img src="https://img.shields.io/github/last-commit/VEDANT356/VEDANT356?style=for-the-badge&logo=github&label=Last%20Commit" />
 </p>
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 GitHub Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=VEDANT356&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" />
+  <img src="https://img.shields.io/github/followers/VEDANT356?style=flat-square&logo=github&label=GitHub%20Followers" />
+  <img src="https://img.shields.io/github/created-at/VEDANT356?style=flat-square&logo=github&label=GitHub%20Since" />
 </p>
+
+----
 
 ## 🤝 Connect With Me
 
