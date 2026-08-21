@@ -44,22 +44,24 @@ I enjoy creating clean, responsive and user-friendly websites while continuously
 * Modern Frontend Development
 
 ---
-
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=VEDANT356\&theme=dark\&hide_border=false\&include_all_commits=false\&count_private=false)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=VEDANT356&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VEDANT356&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+</p>
 
-![](https://nirzak-streak-stats.vercel.app/?user=VEDANT356\&theme=dark\&hide_border=false)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=VEDANT356\&theme=dark\&hide_border=false\&include_all_commits=false\&count_private=false\&layout=compact)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=VEDANT356&theme=tokyonight&hide_border=true" height="180"/>
+</p>
 
 ---
 
 ## 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=VEDANT356\&theme=radical\&no-frame=false\&no-bg=true\&margin-w=4)
-
----
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=VEDANT356&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" />
+</p>
 
 ## 🤝 Connect With Me
 
