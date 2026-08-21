@@ -34,6 +34,13 @@ I enjoy creating clean, responsive and user-friendly websites while continuously
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge\&logo=vite\&logoColor=white)
 
 ---
+## 🤝 Connect With Me
+
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge\&logo=instagram\&logoColor=white)](https://www.instagram.com/st.v3dant)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/vedant-kotkar-48976236b/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:vedantkotkar0267@gmail.com)
+
+---
 
 ## 📚 Currently Learning
 
@@ -43,41 +50,47 @@ I enjoy creating clean, responsive and user-friendly websites while continuously
 * Responsive Web Design
 * Modern Frontend Development
 
+## 💻 Developer Journey
+
+```text
+HTML        ████████████████████  Learning & Building
+CSS         ████████████████████  Learning & Building
+JavaScript  ██████████████████░░  Improving
+React.js    ███████████████░░░░░  Learning
+Git/GitHub  ██████████████████░░  Using
+```
+
+### 🎯 My Focus
+
+* 🌐 Building responsive and user-friendly websites
+* ⚡ Improving JavaScript and React.js skills
+* 🧩 Learning by building real-world projects
+* 🔧 Using Git & GitHub for project management
+* 🚀 Exploring modern frontend development
+
+### 📈 2026 Goals
+
+* [ ] Improve JavaScript fundamentals
+* [ ] Build more React.js projects
+* [ ] Learn API integration
+* [ ] Improve UI/UX skills
+* [ ] Build a strong frontend portfolio
+* [ ] Become job-ready as a Frontend Developer
+
 ---
-## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://img.shields.io/github/followers/VEDANT356?style=for-the-badge&logo=github&label=Followers" />
-  <img src="https://img.shields.io/github/stars/VEDANT356?style=for-the-badge&logo=github&label=Total%20Stars" />
-  <img src="https://img.shields.io/github/repos/VEDANT356?style=for-the-badge&logo=github&label=Repositories" />
-</p>
+### 🧑‍💻 Coding Philosophy
 
-<p align="center">
-  <img src="https://img.shields.io/github/commit-activity/y/VEDANT356?style=for-the-badge&logo=github&label=Commits%20This%20Year" />
-  <img src="https://img.shields.io/github/last-commit/VEDANT356/VEDANT356?style=for-the-badge&logo=github&label=Last%20Commit" />
-</p>
+> **Learn → Build → Break → Fix → Improve 🚀**
+
+I believe the best way to learn development is by **building things and solving problems along the way.**
 
 ---
 
-## 🏆 GitHub Achievements
-
 <p align="center">
-  <img src="https://img.shields.io/github/followers/VEDANT356?style=flat-square&logo=github&label=GitHub%20Followers" />
-  <img src="https://img.shields.io/github/created-at/VEDANT356?style=flat-square&logo=github&label=GitHub%20Since" />
+  <b>Thanks for visiting my profile! 👋</b>
 </p>
 
 ----
-
-## 🤝 Connect With Me
-
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge\&logo=instagram\&logoColor=white)](https://www.instagram.com/st.v3dant)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/vedant-kotkar-48976236b/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:vedantkotkar0267@gmail.com)
-
----
-
-### ✨ Learning by Building • Improving by Doing
-
-⭐ **Thanks for visiting my profile!**
 
 
