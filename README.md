@@ -92,5 +92,3 @@ I believe the best way to learn development is by **building things and solving 
 </p>
 
 ----
-
-
