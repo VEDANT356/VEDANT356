@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Vedant Kotkar
+# 👋 Hi, I'm VedZ
 
 💻 **Computer Science Student | Frontend Web Developer**
 
